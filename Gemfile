@@ -29,6 +29,7 @@ gem 'jbuilder', '~> 2.5'
 
 # **** Manually imported gems ****
 gem 'bootstrap-sass', '~> 3.3.6' #navbar + responsive grid system
+gem 'jquery-rails'
 
 
 
