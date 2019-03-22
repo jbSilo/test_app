@@ -1,3 +1,47 @@
 // Place all the styles related to the pages controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+.col-md-6, .col-sm-5 {
+    position: relative;
+    min-height: 1px;
+    
+}
+
+    
+.col-md-5, .col-md-offset-1, .col-sm-7 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+img {
+    -webkit-box-shadow: 2px 3px 10px 0px rgba(32,15,14,0.61); 
+    box-shadow: 2px 3px 10px 0px rgba(32,15,14,0.61);
+}
+
+.mt-80 {
+    margin-top: 80px !important;
+}
+
+.mb-40 {
+    margin-bottom: 40px !important;
+}
+
+.mt-50 {
+    margin-top: 50px !important;
+}
+
+.section {
+    background-color: blue;
+}
+
+
+
+.container {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: green;
+    border: 3px solid #FF2AB1;
+}
