@@ -15,4 +15,12 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
-@import "/*"
+@import "/*";
+
+.navbar, .navbar-default {
+    background-color: #C68163;
+}
+
+.navbar-header {
+    color: white;
+}
