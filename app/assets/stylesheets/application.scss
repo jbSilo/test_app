@@ -16,11 +16,5 @@
 @import "bootstrap";
 
 @import "/*";
-
-.navbar, .navbar-default {
-    background-color: #C68163;
-}
-
-.navbar-header {
-    color: white;
-}
+@import "base/*";
+@import "partials/*"
