@@ -1,4 +1,5 @@
 .navbar-default, .navbar-toggle:focus, .collapsed, button.navbar-toggle {
+  opacity: 0.75;
   background: $navbarColor !important;
   border: none;
   a {
